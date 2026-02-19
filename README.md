@@ -13,12 +13,15 @@ I am continuously improving my understanding of programming logic, data structur
 
 My goal is to build well-structured and maintainable software while developing strong problem-solving skills.
 
+[linkedin](https://www.linkedin.com/in/dobravoski/)
+
 ## Technologies
 
-- Python  
-- Java (currently studying)  
+- Python
+- Pandas
+- Java
 - Git  
-- VS Code  
+- PyCharm 
 - IntelliJ IDEA  
 
 ## Currently Learning
@@ -31,8 +34,6 @@ My goal is to build well-structured and maintainable software while developing s
 ## Goals
 
 To grow as a back-end developer by consistently building projects, improving code quality, and deepening my understanding of software engineering principles.
-
-"[linkedin](https://www.linkedin.com/in/dobravoski/)"
 
 ### 🤖 languages ​​and technologies
 
